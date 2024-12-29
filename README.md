@@ -4,7 +4,7 @@
   - Making utility tools for Video games.
   
 - 🌱 I’m currently learning:
-  - Javascript
+  - Kotlin
   
 - 📫 How to reach me:
   - discord: mokiiscool#0
